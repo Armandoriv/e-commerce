@@ -1,0 +1,13 @@
+
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+}
+
+.itemDetail {
+    max-width: 540px;
+    margin-top: 20px;
+}
+.cartBot{
+    margin-left: 10px;
+}

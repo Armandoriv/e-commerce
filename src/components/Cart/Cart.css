@@ -1,0 +1,21 @@
+.cartCont{
+    display: flex;
+    justify-content: center;
+    padding-top: 30vh;
+    
+}
+.volv{
+    text-align: center;
+}
+
+.cardContent{
+    display: flex;
+    justify-content: center;
+}
+.totl{
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
